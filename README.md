@@ -1,0 +1,1 @@
+This example demonstrates a common error in VBScript related to implicit type coercion during comparisons.  The function `f` compares two inputs, `a` and `b`.  Unexpected results may occur when `a` and `b` are of different data types. The solution explicitly converts variables to numeric types before comparisons to ensure accurate results.
